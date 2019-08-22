@@ -1,4 +1,5 @@
-# Hide unfinished content
+# Hide unfinished content and teacher stuff
+*_teacher.*
 /Teacher
 /sub-unit-1/Exercise Files
 sub-unit-2/
